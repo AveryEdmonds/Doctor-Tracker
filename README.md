@@ -1,6 +1,6 @@
 # MyMed - Doctor Tracker
 
-This was my first Springboot Project that I created for my. The objective of project was to create a Springboot 
+This was my first Springboot Project that I created for my IST 261 Class. The objective of project was to create a Springboot project that has all four CRUD functions, Create, Read, Update and Delete.
 
 ## Features
 
